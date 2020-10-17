@@ -15,6 +15,16 @@
     background-color: yellow;
     height: 100px;
     width: auto;
+    padding: 10px 20px 10px 10px;
+    margin-top: 10px;
+    margin:0 auto;
+    border: 5px black solid;
+    border-radius: 80px;
+
+}
+p{
+    padding: 10px;
+    background-color: #fff;
 
 }
 
@@ -23,5 +33,6 @@
     background-color: orangered ;
     height: 100px;
     width: auto;
+    
 
 }
