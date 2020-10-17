@@ -1,0 +1,27 @@
+.blue{
+    background-color: blue;
+    height:100px;
+    width: auto;
+
+}
+/* p{
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
+    margin-top: 50px;
+} */
+.yellow{
+
+    background-color: yellow;
+    height: 100px;
+    width: auto;
+
+}
+
+.orange{
+
+    background-color: orangered ;
+    height: 100px;
+    width: auto;
+
+}
